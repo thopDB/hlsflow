@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="bunny1" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot.cf/dl/917222872/www.4MovieRulz.as_D_COMPANY_2021_720p_Telugu_TRUE_HDRip_HEVC_AAC_450MB.mkv" # Input direct file url
+output_path="COLOUR" # Output Path (Same will be pushed in main also)
+input_url="http://srv90.ptvcdn.top/api/aws/media.php?Pocket+TV+-+COLOUR+PHOTO+(2020)+Telugu+HDRip+-+400MB+-+x264+-+MP3+-+ESub.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
