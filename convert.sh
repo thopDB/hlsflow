@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="COLOUR" # Output Path (Same will be pushed in main also)
-input_url="https://thopmoview.dailysarkarnaukri.workers.dev/0:/Kali_malayalam_full_movie%20_dulquer_salmaan_movies_dulquer_movie_scenes_dulquer_saipallavi_720p.mp4" # Input direct file url
+output_path="db" # Output Path (Same will be pushed in main also)
+input_url="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
