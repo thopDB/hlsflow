@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="big-buck-bunny" # Output Path (Same will be pushed in main also)
-input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+input_url="https://dmca-ka-baap.ga/dl/917153804/www.4MovieRulz.as_The_Family_Man_2019_S_1_Ep_[01_10]_HDRip_[Telugu_Tamil_Hindi_Eng]_1.6GB_ESub.mkv" # Input direct file url
+input_extension="mkv" # Extension of file url
 
 
 
