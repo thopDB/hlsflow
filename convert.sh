@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="bunny" # Output Path (Same will be pushed in main also)
-input_url="https://dmca-ka-baap.ga/dl/917153804/www.4MovieRulz.as_The_Family_Man_2019_S_1_Ep_[01_10]_HDRip_[Telugu_Tamil_Hindi_Eng]_1.6GB_ESub.mkv" # Input direct file url
+output_path="bunny1" # Output Path (Same will be pushed in main also)
+input_url="https://uploadbot.cf/dl/917222872/www.4MovieRulz.as_D_COMPANY_2021_720p_Telugu_TRUE_HDRip_HEVC_AAC_450MB.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
