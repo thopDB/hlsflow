@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="db" # Output Path (Same will be pushed in main also)
-input_url="https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" # Input direct file url
+input_url="https://thopdbbeta.thopdb.workers.dev/0:/MoviezWapHD.nl%20-%20Money%20Heist%20(2017)%20S01%20Eps%20(01-13)%20Telugu%20HDRip%20Single%20Part%20HQ%20eSub.Mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
