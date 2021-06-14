@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="11db" # Output Path (Same will be pushed in main also)
-input_url="https://ahatvmp4ns.akamaized.net/aha-tv/Renditions/20210526/ANUKONI_ATHIDHI_For_Upload_26th/ANUKONI_ATHIDHI_For_Upload_26th_270.mp4?__token__=exp=1622224104~acl=/aha-tv/Renditions/20210526/ANUKONI_ATHIDHI_For_Upload_26th/*~hmac=c5aebaa42bdb203f354080c005347e2def8fdfd02c42c3c58fb016ddba820be6" # Input direct file url
-input_extension="mp4" # Extension of file url
+input_url="https://www130.sbcdnvid.com/hls/tysxf5uvt666j6cdaabb3hk3ehsccf67vzkndatiik277z22lqykf6yo3pva/index-v1-a1.m3u8" # Input direct file url
+input_extension="m3u8" # Extension of file url
 
 
 
