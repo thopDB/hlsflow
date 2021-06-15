@@ -1,6 +1,6 @@
 # Change input and output details
 
-output_path="11db" # Output Path (Same will be pushed in main also)
+output_path="db2" # Output Path (Same will be pushed in main also)
 input_url="https://torrentleechin.thopdb.workers.dev/0:/thopdbbetalinks/www.1TamilMV.art%20-%20GAME%20(2021)%20S01%20EP%20(01-06)%C2%A0HDRip%20-%20480p%20-%20[Tamil%20+%20Telugu%20+%20Kannada]%20-%20400MB/S01%20EP01%20-%20THE%20CALL.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
