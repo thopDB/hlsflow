@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="db3" # Output Path (Same will be pushed in main also)
-input_url="https://tutor.thopdb.workers.dev/0:/thopDB_Meiosis.flv" # Input direct file url
+output_path="db4" # Output Path (Same will be pushed in main also)
+input_url="http://tutor.thopdb.workers.dev/0:/thopDB_Meiosis.flv" # Input direct file url
 input_extension="flv" # Extension of file url
 
 
