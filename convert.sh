@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="db3" # Output Path (Same will be pushed in main also)
-input_url="https://minhduc-my.sharepoint.com/:v:/g/personal/epdfdownloads_onedrive5tb_com/EcsBN_tk90NIhst0_V3ttUQBqFnd07KJ_VguO9GOLBbqTA?e=LvI6Cg&download=1" # Input direct file url
-input_extension="mp4" # Extension of file url
+input_url="https://tutor.thopdb.workers.dev/0:/thopDB_Meiosis.flv" # Input direct file url
+input_extension="flv" # Extension of file url
 
 
 
