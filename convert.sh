@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="db4" # Output Path (Same will be pushed in main also)
-input_url="http://tutor.thopdb.workers.dev/0:/thopDB_Meiosis.flv" # Input direct file url
-input_extension="flv" # Extension of file url
+input_url="https://tutor.thopdb.workers.dev/0:/Fertilization1.mp4" # Input direct file url
+input_extension="mp4" # Extension of file url
 
 
 
