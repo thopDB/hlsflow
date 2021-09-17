@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="db6" # Output Path (Same will be pushed in main also)
-input_url="https://botxdirect.herokuapp.com/153708896946734446151767440/Development_up_to_2nd_week_1.mp4" # Input direct file url
+input_url="https://botxdirect.herokuapp.com/154090228040226170002773392/Duw2.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
