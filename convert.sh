@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="db5" # Output Path (Same will be pushed in main also)
-input_url="https://tutor.thopdb.workers.dev/0:/Fertilization2.mp4" # Input direct file url
+input_url="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" # Input direct file url
 input_extension="mp4" # Extension of file url
 
 
@@ -20,4 +20,4 @@ cd $output_path
 echo '#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
-360p.m3u8 > master.m3u8
+360p.m3u8' > master.m3u8
