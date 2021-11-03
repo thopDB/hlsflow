@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="fd" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.gq/dl/1039347621/www.7MovieRulz.lv_Family_Drama_2021_HDRip_x264_[Tel_Tam_Mal_Kan]_750MB_ESub.mkv" # Input direct file url
-input_extension="mkv" # Extension of file url
+output_path="thDB/fd" # Output Path (Same will be pushed in main also)
+input_url="https://fxstream.herokuapp.com/48692" # Input direct file url
+input_extension="mp4" # Extension of file url
 
 
 
