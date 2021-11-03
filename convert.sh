@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="jb" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.tk/dl/1038619777/www.7MovieRulz.lv_JAI_BHIM_2021_720p_Telugu_Org_Vers_HDRip_HEVC_AAC_950MB_ESub.mkv" # Input direct file url
+input_url="https://uploadbot2.gq/dl/1039347621/www.7MovieRulz.lv_Family_Drama_2021_HDRip_x264_[Tel_Tam_Mal_Kan]_750MB_ESub.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
