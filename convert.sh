@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="thDB/fd" # Output Path (Same will be pushed in main also)
-input_url="https://fxstream.herokuapp.com/48692" # Input direct file url
-input_extension="mp4" # Extension of file url
+output_path="thDB/vd" # Output Path (Same will be pushed in main also)
+input_url="https://uploadbot2.cf/dl/1040585649/www.7MovieRulz.lv_Varun_Doctor_2021_Telugu_Org_Vers_HDRip_x264_MP3_700MB_ESub.mkv" # Input direct file url
+input_extension="mkv" # Extension of file url
 
 
 
