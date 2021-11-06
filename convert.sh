@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="thDB/vd" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.cf/dl/1040585649/www.7MovieRulz.lv_Varun_Doctor_2021_Telugu_Org_Vers_HDRip_x264_MP3_700MB_ESub.mkv" # Input direct file url
+output_path="thDB/sooryavanshi" # Output Path (Same will be pushed in main also)
+input_url="https://uploadbot2.ml/dl/1041839296/www.1TamilMV.vip_Sooryavanshi_2021_Hindi_Real_HQ_PreDVD_400MB_x264_HQ_Clean_Aud.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
