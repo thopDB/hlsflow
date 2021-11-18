@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="thDB/sooryavanshi" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.tk/dl/1041777503/www.7MovieRulz.lv_Sooryavanshi_2021_720p_Hindi_DVDScr_x264_AAC_1.1GB.mkv" # Input direct file url
+output_path="thDB/wot" # Output Path (Same will be pushed in main also)
+input_url="https://uploadbot2.cf/dl/1050801689/www.7MovieRulz.mx_Wrath_of_the_Titans_2012_720p_Blu_Ray_DD5.1_192Kbps_[Tel_Tam_Hin_Eng]_ESub.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
