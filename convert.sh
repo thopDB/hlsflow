@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="thDB/wot" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.cf/dl/1050801689/www.7MovieRulz.mx_Wrath_of_the_Titans_2012_720p_Blu_Ray_DD5.1_192Kbps_[Tel_Tam_Hin_Eng]_ESub.mkv" # Input direct file url
+output_path="thDB/adbhutam" # Output Path (Same will be pushed in main also)
+input_url="https://uploadbot2.gq/dl/1051034441/www.7MovieRulz.mx_Adbhutham_2021_720p_Telugu_HDRip_x264_DD5.1_192Kbps_AAC_2.0_1.4GB_ESub.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
