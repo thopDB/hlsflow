@@ -1,7 +1,7 @@
 # Change input and output details
 
-output_path="thDB/adbhutam" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.gq/dl/1051034441/www.7MovieRulz.mx_Adbhutham_2021_720p_Telugu_HDRip_x264_DD5.1_192Kbps_AAC_2.0_1.4GB_ESub.mkv" # Input direct file url
+output_path="thDB/meb" # Output Path (Same will be pushed in main also)
+input_url="https://uploadbot2.ml/dl/1051038648/www.7MovieRulz.mx_Most_Eligible_Bachelor_2021_Telugu_HQ_HDRip_x264_MP3_700MB_ESub.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
