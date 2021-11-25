@@ -1,7 +1,7 @@
 # Change input and output details
 
 output_path="thDB/drushyam2" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.ga/dl/1056089175/www.7MovieRulz.mx_Drushyam_2_2021_720p_Telugu_HQ_HDRip_HEVC_DD5.1_192Kbps_AAC_2.0_850MB_ESub.mkv" # Input direct file url
+input_url="https://uploadbot2.tk/dl/1056104886/www.7MovieRulz.mx_Drushyam_2_2021_720p_Telugu_HQ_HDRip_x264_DD5.1_192Kbps_AAC_2.0_1.4GB_ESub.mkv" # Input direct file url
 input_extension="mkv" # Extension of file url
 
 
