@@ -1,8 +1,8 @@
 # Change input and output details
 
-output_path="thDB/romantic" # Output Path (Same will be pushed in main also)
-input_url="https://uploadbot2.gq/dl/1056687041/www.1TamilMV.bar_ROMANTIC_2021_Telugu_TRUE_WEB_DL_720p_AVC_UNTOUCHED_DD5.1_192Kbps_AAC_2.0_1.4GB_ESub.mkv" # Input direct file url
-input_extension="mkv" # Extension of file url
+output_path="thDB/sebi" # Output Path (Same will be pushed in main also)
+input_url="https://roieylnhiefmtaowahlx.akamai-cdn-content.com/tysxe7yzq26kbw2dacqqtg2cfz7fmpudgwdazp3l6qo2beys3gcvq6jmniza/Sebastian_P.C._524_(2022)_Telugu_HQ_HDRip_x264_MP3_700MB_ESub.mkv.mp4" # Input direct file url
+input_extension="mp4" # Extension of file url
 
 
 
