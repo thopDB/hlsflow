@@ -1,8 +1,8 @@
 # Change input and output details
 
 output_path="thDB/sebi" # Output Path (Same will be pushed in main also)
-input_url="https://roieylnhiefmtaowahlx.akamai-cdn-content.com/tysxe7yzq26kbw2dacqqtg2cfz7fmpudgwdazp3l6qo2beys3gcvq6jmniza/Sebastian_P.C._524_(2022)_Telugu_HQ_HDRip_x264_MP3_700MB_ESub.mkv.mp4" # Input direct file url
-input_extension="mp4" # Extension of file url
+input_url="https://mirror.thopdbapp.workers.dev/0:/Jalsa%20%282022%29%20Hindi%20HQ%20HDRip%20-%20x264%20-%20AAC%20-%20700MB%20ESub.mkv" # Input direct file url
+input_extension="mkv" # Extension of file url
 
 
 
